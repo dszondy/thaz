@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a3e2bae-6be2-48ba-8bf6-d7ef5478e592" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/Accounting/CondominiumPartner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/ThazDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/RepositoryBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Services/CondominiumService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Services/TransactionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Services/PartnerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Repositories/IBillAccountingRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/808E0243-B875-4CD6-B688-221F94EA426E/a7/37e84b2e/02000033pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/QueryObjects/CondominiumSearchParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/QueryObjects/BillSearchParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/Bill.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Repositories/IAuthRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/31F94AF4-0455-4C4C-BD4F-AB58A9F2D1BF/46/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/QueryObjects/TransactionSearchParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/QueryObjects/AccountingParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/BillItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/Tag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/BillDetails.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/PartnerDetails.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/QueryBuilders/AccountingFilterBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/ResidentOfCondominiumConnector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/QueryBuilders/BillQueryBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/QueryObjects/AccountingParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/QueryBuilders/TransactionQueryBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/QueryObjects/PartnerSearchParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/QueryObjects/BillSearchParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/DTOs/LoginRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/TransactionDetails.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/14E/ExecutionContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/AuthRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/QueryObjects/TransactionSearchParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/PartnerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/760DCDFB-2F2B-4C8D-9D3B-A922FA70B507/17C/CollectionCollectionBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/QueryObjects/CondominiumSearchParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/Partner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/DTOs/BillWithCoverageRate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/SignalR - Kiinduló/Controllers/UserController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/QueryBuilders/CondominiumQueryBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Controllers/PartnerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/25F/AsyncMethodBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Controllers/BillFileController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/Transaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/BillItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/BillFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/EF752E3C-2A1A-4733-B8D0-C0B039EFF5A4/8/Queryable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/FileRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AB0E3398-3BC1-4635-8E71-8B916CDB3B04/3/AuthorizationMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/Transaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/Partner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/BillTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8D30A3FA-A946-4590-B830-42107ECCC8C9/16/DateTimeConverter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/TransactionTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Serialization/DateConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/Condominium.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Controllers/AccountingController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Services/BillService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/Accounting/CondominiumAccountingRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Services/AccountingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/760DCDFB-2F2B-4C8D-9D3B-A922FA70B507/C/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/Bill.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/PartnerCondominiumBalance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/BillFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/BillWithCompletion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Services/UserFromContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/Accounting/AccountingRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/Accounting/BillAccountingRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/BillRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/760DCDFB-2F2B-4C8D-9D3B-A922FA70B507/A/EntityFrameworkServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Controllers/BillController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/IOwnable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/TransactionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/QueryBuilders/PartnerQueryBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Services/AuthService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Controllers/TransactionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/DTOs/LoginResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/QueryObjects/PartnerSearchParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/DTOs/PagedResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/Balance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/SignalR - Kiinduló/Data/20181008134100_IdentitySchema.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Entities/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/CondominiumTotals.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/PartnerBalanceToCondominium.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/DAL/Repositories/CondominiumRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/API/Controllers/CondominiumController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/Condominium.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Thaz/BLL/Model/BankAccount.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/CondominiumDetails.cs" />
+        <option value="$PROJECT_DIR$/Thaz/API/QueryObjects/PartnerSearchParams.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/QueryObjects/PartnerSearchParams.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/QueryBuilders/PartnerQueryBuilder.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/PartnerDetails.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Entities/Partner.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/Transaction.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/Accounting/TransactionAccountingRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/Balance.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/PartnerDebtToCondominium.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/PartnerBalanceToCondominium.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Entities/BillTagging.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Entities/TransactionTagging.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/ThazDbContext.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/Tag.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/Bill.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/BillWithItems.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Entities/Transaction.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Entities/Bill.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Entities/BillTag.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Entities/TransactionTag.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/BillDetails.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/TransactionDetails.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/QueryObjects/AccountingParams.cs" />
+        <option value="$PROJECT_DIR$/Thaz/API/QueryObjects/AccountingParams.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/QueryBuilders/AccountingFilterBuilder.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Model/PartnerCondominiumBalance.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/AuthRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/BillRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/CondominiumRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/FileRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/PartnerRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/TransactionRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/Accounting/AccountingRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/Accounting/CondominiumAccountingRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Repositories/Accounting/BillAccountingRepository.cs" />
+        <option value="$PROJECT_DIR$/Thaz/DAL/Startup.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Services/BillService.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Accounting/AccountingService.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Services/AccountingService.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Services/TransactionService.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Services/PartnerService.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Services/CondominiumService.cs" />
+        <option value="$PROJECT_DIR$/Thaz/API/Controllers/AccountingController.cs" />
+        <option value="$PROJECT_DIR$/Thaz/API/Controllers/BillController.cs" />
+        <option value="$PROJECT_DIR$/Thaz/API/Controllers/BillFileController.cs" />
+        <option value="$PROJECT_DIR$/Thaz/API/Controllers/CondominiumController.cs" />
+        <option value="$PROJECT_DIR$/Thaz/API/Controllers/PartnerController.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Startup.cs" />
+        <option value="$PROJECT_DIR$/Thaz/BLL/Services/AuthService.cs" />
+        <option value="$PROJECT_DIR$/Thaz/API/Controllers/TransactionController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ikFCxM7dX2Za49fxK8E73LlL99" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3495212" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3009576" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="IgnoreLang" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Thaz">
+    <configuration name="Thaz" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Thaz/Thaz.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Thaz" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Thaz: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Thaz/Thaz.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.Thaz" />
+      <item itemvalue=".NET Launch Settings Profile.Thaz: IIS Express" />
+    </list>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606731672725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606731672725" />
+    <state x="528" y="285" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1607884467708">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="528" y="272" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1536.824@0.0.1536.824" timestamp="1607084033720" />
+    <state x="528" y="285" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1536.864@0.0.1536.864" timestamp="1607884467708" />
+    <state width="449" height="487" key="DebuggerActiveHint" timestamp="1607857401301">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="402" height="464" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1606137270689" />
+    <state width="449" height="487" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1607857401301" />
+    <state x="607" y="281" key="DockerComposeFileDialog" timestamp="1602924125944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="607" y="281" key="DockerComposeFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602924125944" />
+    <state width="1493" height="141" key="GridCell.Tab.0.bottom" timestamp="1607943500421">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607681027293" />
+    <state width="1493" height="141" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607943500421" />
+    <state width="1493" height="141" key="GridCell.Tab.0.center" timestamp="1607943500420">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607681027292" />
+    <state width="1493" height="141" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607943500420" />
+    <state width="1493" height="141" key="GridCell.Tab.0.left" timestamp="1607943500420">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607681027292" />
+    <state width="1493" height="141" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607943500420" />
+    <state width="1493" height="141" key="GridCell.Tab.0.right" timestamp="1607943500421">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607681027292" />
+    <state width="1493" height="141" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607943500421" />
+    <state width="1493" height="303" key="GridCell.Tab.1.bottom" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.1.center" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.1.left" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.1.right" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.2.bottom" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.2.center" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.2.left" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.2.right" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.3.bottom" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.3.center" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.3.left" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.3.right" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.4.bottom" timestamp="1607899390039">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607100453930" />
+    <state width="1493" height="303" key="GridCell.Tab.4.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607899390039" />
+    <state width="1493" height="303" key="GridCell.Tab.4.center" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1607100453930" />
+    <state width="1493" height="303" key="GridCell.Tab.4.center/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.4.left" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1607100453929" />
+    <state width="1493" height="303" key="GridCell.Tab.4.left/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state width="1493" height="303" key="GridCell.Tab.4.right" timestamp="1607899390038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1607100453930" />
+    <state width="1493" height="303" key="GridCell.Tab.4.right/0.0.1536.864@0.0.1536.864" timestamp="1607899390038" />
+    <state x="415" y="107" key="RiderGenerateDialog" timestamp="1607942393543">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="415" y="102" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1607678159623" />
+    <state x="415" y="107" key="RiderGenerateDialog/0.0.1536.864@0.0.1536.864" timestamp="1607942393543" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1607100449147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607100449147" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1603717692788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1603717692788" />
+    <state x="339" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603722490803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="339" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1603722490803" />
+    <state x="211" y="23" width="636" height="801" key="find.popup" timestamp="1603716700411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="211" y="23" width="636" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603716700411" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1607942311924">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607093886097" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1607942311924" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Thaz/API/Controllers/CondominiumController.cs</url>
+          <line>68</line>
+          <properties documentPath="$PROJECT_DIR$/Thaz/Controllers/CondominiumController.cs" initialLine="58" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Thaz/API/Controllers/AuthController.cs</url>
+          <line>40</line>
+          <properties documentPath="$PROJECT_DIR$/Thaz/API/Controllers/UserController.cs" initialLine="42" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Thaz/API/Controllers/AuthController.cs</url>
+          <line>26</line>
+          <properties documentPath="$PROJECT_DIR$/Thaz/API/Controllers/UserController.cs" initialLine="27" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Thaz/BLL/Services/AuthService.cs</url>
+          <line>48</line>
+          <properties documentPath="$PROJECT_DIR$/Thaz/BLL/Services/AuthService.cs" initialLine="51">
+            <startOffsets>
+              <option value="1617" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1667" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Thaz/DAL/Repositories/PartnerRepository.cs</url>
+          <line>55</line>
+          <properties documentPath="$PROJECT_DIR$/Thaz/DAL/Repositories/PartnerRepository.cs" initialLine="42">
+            <startOffsets>
+              <option value="1959" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1983" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

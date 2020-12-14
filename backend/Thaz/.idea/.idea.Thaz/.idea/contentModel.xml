@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Programming\GuanacoesWorld\backend\Thaz" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Thaz" t="IncludeRecursive">
+        <e p="API" t="Include">
+          <e p="Controllers" t="Include">
+            <e p="AccountingController.cs" t="Include" />
+            <e p="AuthController.cs" t="Include" />
+            <e p="BillController.cs" t="Include" />
+            <e p="BillFileController.cs" t="Include" />
+            <e p="CondominiumController.cs" t="Include" />
+            <e p="PartnerController.cs" t="Include" />
+            <e p="TransactionController.cs" t="Include" />
+          </e>
+          <e p="DTOs" t="Include">
+            <e p="BillWithCoverageRate.cs" t="Include" />
+            <e p="LoginRequest.cs" t="Include" />
+            <e p="LoginResponse.cs" t="Include" />
+            <e p="PagedResponse.cs" t="Include" />
+          </e>
+          <e p="QueryObjects" t="Include">
+            <e p="AccountingParams.cs" t="Include" />
+            <e p="BillSearchParams.cs" t="Include" />
+            <e p="CondominiumSearchParams.cs" t="Include" />
+            <e p="PartnerSearchParams.cs" t="Include" />
+            <e p="TransactionSearchParams.cs" t="Include" />
+          </e>
+          <e p="Serialization" t="Include">
+            <e p="DateConverter.cs" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BLL" t="Include">
+          <e p="Model" t="Include">
+            <e p="Address.cs" t="Include" />
+            <e p="Balance.cs" t="Include" />
+            <e p="BankAccount.cs" t="Include" />
+            <e p="Bill.cs" t="Include" />
+            <e p="BillDetails.cs" t="Include" />
+            <e p="BillFile.cs" t="Include" />
+            <e p="BillItem.cs" t="Include" />
+            <e p="BillWithCompletion.cs" t="Include" />
+            <e p="Condominium.cs" t="Include" />
+            <e p="CondominiumTotals.cs" t="Include" />
+            <e p="Partner.cs" t="Include" />
+            <e p="PartnerBalanceToCondominium.cs" t="Include" />
+            <e p="PartnerCondominiumBalance.cs" t="Include" />
+            <e p="PartnerDetails.cs" t="Include" />
+            <e p="Tag.cs" t="Include" />
+            <e p="Transaction.cs" t="Include" />
+            <e p="TransactionDetails.cs" t="Include" />
+            <e p="user.cs" t="Include" />
+          </e>
+          <e p="QueryObjects" t="Include">
+            <e p="AccountingParams.cs" t="Include" />
+            <e p="BillSearchParams.cs" t="Include" />
+            <e p="CondominiumSearchParams.cs" t="Include" />
+            <e p="PartnerSearchParams.cs" t="Include" />
+            <e p="TransactionSearchParams.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="IAccountingRepository.cs" t="Include" />
+            <e p="IAuthRepository.cs" t="Include" />
+            <e p="IBillAccountingRepository.cs" t="Include" />
+            <e p="IBillRepository.cs" t="Include" />
+            <e p="ICondominiumAccountingRepository.cs" t="Include" />
+            <e p="ICondominiumRepository.cs" t="Include" />
+            <e p="IFileRepository.cs" t="Include" />
+            <e p="IPartnerRepository.cs" t="Include" />
+            <e p="ITransactionRepository.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="AccountingService.cs" t="Include" />
+            <e p="AuthService.cs" t="Include" />
+            <e p="BillService.cs" t="Include" />
+            <e p="CondominiumService.cs" t="Include" />
+            <e p="PartnerService.cs" t="Include" />
+            <e p="TransactionService.cs" t="Include" />
+            <e p="UserFromContext.cs" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+        </e>
+        <e p="dal" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Address.cs" t="Include" />
+            <e p="Bill.cs" t="Include" />
+            <e p="BillFile.cs" t="Include" />
+            <e p="BillItem.cs" t="Include" />
+            <e p="BillTag.cs" t="Include" />
+            <e p="Condominium.cs" t="Include" />
+            <e p="IOwnable.cs" t="Include" />
+            <e p="Partner.cs" t="Include" />
+            <e p="ResidentOfCondominiumConnector.cs" t="Include" />
+            <e p="Transaction.cs" t="Include" />
+            <e p="TransactionTag.cs" t="Include" />
+            <e p="user.cs" t="Include" />
+          </e>
+          <e p="QueryBuilders" t="Include">
+            <e p="AccountingFilterBuilder.cs" t="Include" />
+            <e p="BillQueryBuilder.cs" t="Include" />
+            <e p="CondominiumQueryBuilder.cs" t="Include" />
+            <e p="PartnerQueryBuilder.cs" t="Include" />
+            <e p="TransactionQueryBuilder.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="Accounting" t="Include">
+              <e p="AccountingRepository.cs" t="Include" />
+              <e p="BillAccountingRepository.cs" t="Include" />
+              <e p="CondominiumAccountingRepository.cs" t="Include" />
+              <e p="CondominiumPartner.cs" t="Include" />
+            </e>
+            <e p="AuthRepository.cs" t="Include" />
+            <e p="BillRepository.cs" t="Include" />
+            <e p="CondominiumRepository.cs" t="Include" />
+            <e p="FileRepository.cs" t="Include" />
+            <e p="PartnerRepository.cs" t="Include" />
+            <e p="RepositoryBase.cs" t="Include" />
+            <e p="TransactionRepository.cs" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+          <e p="ThazDbContext.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Thaz.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Thaz.csproj" t="IncludeRecursive" />
+        <e p="Utils.cs" t="Include" />
+      </e>
+      <e p="Thaz.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\szond\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\szond\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Thaz.-1597243226.00" t="ExcludeRecursive" />
+    <e p="C:\Users\szond\AppData\Roaming\JetBrains\Rider2020.1\scratches" t="IncludeRecursive" />
+  </component>
+</project>
